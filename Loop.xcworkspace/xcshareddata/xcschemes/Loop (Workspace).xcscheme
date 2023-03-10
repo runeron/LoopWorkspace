@@ -549,6 +549,16 @@
                ReferencedContainer = "container:G7SensorKit/G7SensorKit.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "1DEE226824A676A300693C32"
+               BuildableName = "LoopKitHostedTests.xctest"
+               BlueprintName = "LoopKitHostedTests"
+               ReferencedContainer = "container:LoopKit/LoopKit.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
